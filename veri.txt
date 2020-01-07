@@ -1,0 +1,372 @@
+Samsung Galaxy Note 9 İçin One UI 2.0'lı Android 10 Güncellemesi Yayınlandı
+Berk Baylançiçek	—	2 saat önce2 dk okuma süresi
+
+
+
+6
+Samsung Galaxy Note 9, uzun ve meraklı bir bekleyişin ardından nihayet Android 10 tabanlı One UI 2.0’ın kararlı sürümüne kavuştu. Güney Koreli teknoloji devi, güncellemeyi ilk olarak Hindistan’daki kullanıcılar için yayınladı.
+Geçtiğimiz ağustos ayında Galaxy Note10’u tanıtan Samsung, amiral gemisi modelinin selefini de unutmuyor. Güney Koreli marka, 2020’ye sayılı saatler kala Galaxy Note 9 için Android 10 tabanlı One UI 2.0’ın kararlı sürümününü yayınladı. Birden fazla kullanıcı raporuna göre güncelleme, şimdilik Hindistan’daki kullanıcılar için yayınlandı.
+
+Öte yandan yeni sürüm, şu anda yalnızca geçen ay açılan Android 10 beta programına katılanlara sunuluyor. Diğer Android Pie kullanıcılarının Android 10 tabanlı One UI 2.0’a ne zaman kavuşacağı ise henüz belli değil; ancak çok fazla bekleyeceklerini düşünmüyoruz. Bugün itibarıyla Hindistan’da yaşayan beta üyeleri, cihazlarındaki Ayarlar>Sistem Güncellemesi seçeneklerine gidip İndir düğmesine tıklayarak güncellemeyi yükleyebiliyorlar.
+
+samsung galaxy note 9
+
+Böylece Samsung'un, Galaxy Note 9'un diğer Samsung amiral gemileriyle birlikte Ocak 2020'ye kadar kararlı One UI 2.0 güncellemesini alacağını gösteren zaman çizelgesine uyulduğunu söyleyebiliriz. Güney Koreli teknoloji devi, Galaxy Note 9 için Android 10 beta programını geçen ay başlatmıştı. Üç beta güncellemesinin ardından, çok beklenen Android 10 tabanlı One UI 2.0 güncellemesi artık resmen kullanılmaya hazır.
+
+İLGİLİ HABER
+Samsung, Türkiye'deki Galaxy Note10'lara One UI 2.0'lı Android 10 Güncellemesini Yayınladı
+Kararlı Android 10 sürümünün şimdilik sadece Hindistan’da yayınlandığını bir kez daha hatırlatalım. Bununla birlikte güncellemenin Avrupa ve diğer pazarlarda yaşayan kullanıcılara sunulmasının çok uzun sürmeyeceğini tahmin ediyoruz. Güncellemenin Türkiye'deki kullanıcılar için yayınlanması halinde sizleri bilgilendireceğiz.
+
+
+Bir Geliştirici, Raspberry Pi Zero ile Wi-Fi Hackleme Modülü Yaptı
+Ozan Baki	—	2 saat önce1 dk okuma süresi
+
+
+
+12
+Bir güvenlik geliştiricisi, Raspberry Pi Zero W kullanarak bir WiFi hack'leme aygıtı oluşturma konusunda oluşturduğu rehberi Twitter'da paylaştı. Modül, hacker dostu re4son çekirdeği altında Raspbian Buster çalıştırıyor.
+Bir güvenlik geliştiricisi olan Mr. Smashy, yeni Raspberry Pi tasarımını paylaştı. Geliştirici, Twitter üzerinden yayınladığı gönderide, Pi Zero W ve taşınabilir pil ile yapılan bir Wi-Fi hackleme modülü tanıtarak, aygıtın nasıl yapıldığını anlatan bir rehber paylaştı.
+
+Kendi Wi-Fi hack modülünü yapmak isteyenlerin ihtiyacı olan şeyler; RaspberryPi Zero W, bir mikro USB kablosu, bir mikro SD kart, bir taşınabilir şarj cihazı ve hepsini bir araya getirebilmenizi sağlayan küçük bir kasa. Mr. Smashy'nin Wi-Fi hackleme modülü, Raspberry Pi'nin varsayılan işletim sistemi olan Raspbian Buster'ı hacker'ların sıklıkla kullandığı re4son kerneliyle çalıştırıyor.
+
+raspberry pi zero wifi hackleme modülü
+
+İLGİLİ HABER
+Yapan Herkesin Kendini Mühendis Gibi Hissedeceği 10 Raspberry Pi Projesi
+Re4son, Wi-Fi izleme ve paket enjeksiyonu gibi işlevleri destekliyor. Linux tabanlı güvenlik sistemi Kali burada kullanılmasa da, Raspberry Pi kullanan bilgisayar korsanları sık sık güvenlik odaklı Linux yazılımını re4son çekirdeği altında çalıştırıyor. Ayrıca Mr. Smashy'nin modülü, Aircrack-ng gibi popüler Wi-Fi izleme uygulamaları için de destek sağlıyor. 
+
+Aygıt kurulduktan sonra ağ güvenliğini test edebilen bir siber güvenlik cihazı olarak olarak kullanılabiliyor. Elbette kötü niyetli ellerde Wi-Fi izleme veya ağ saldırısı amaçlı bir silaha dönüşebiliyor. Eğer nasıl yapıldığını merak ediyorsanız detaylı rehbere buradan erişebilirsiniz.
+
+CES 2020'nin Açılış Konuşmasını Donald Trump'ın Kızı Ivanka Trump Yapacak
+Berk Baylançiçek	—	2 saat önce2 dk okuma süresi
+
+
+
+6
+Amerika Birleşik Devletleri (ABD) Başkanı Donald Trump'ın kızı ve danışmanı Ivanka Trump, önümüzdeki ay Las Vegas'ta düzenlenecek CES 2020’nin açılış konuşmacılarından biri olacak.
+Her yıl ocak ayında Las Vegas, Nevada'da düzenlenen ve dünyanın en büyük tüketici elektroniği fuarı olarak bilinen CES (Consumer Electronics Show - Tüketici Elektroniği Fuarı), önümüzdeki yıl 52’inci kez kapılarını açacak. Her zamanki gibi oldukça hareketli geçmesi beklenen CES 2020, çok önemli bir misafiri ağırlayacak.
+
+Amerika Birleşik Devletleri (ABD) Başkanı Donald Trump'ın kızı ve danışmanı Ivanka Trump, dev fuarın açılış konuşmacılarından biri olacak. Konuşma, 7 Ocak Salı günü Venedik Palazzo Balo Salonu'nda saat 14:00'de yapılacak. 
+
+donald trump
+
+Organizasyonun düzenleyicisi Consumer Technology Association (CTA) tarafından yapılan açıklamada görüşlerine yer verilen Ivanka Trump, "CES, dünyanın en etkili teknoloji etkinliklerinden biri olduğunu daha önce defalarca kanıtladı. Bu yıl hükümetin, Amerikalı öğrencilerin ve çalışanların donanımlı olmasını sağlamak için özel sektör liderleriyle nasıl çalıştıkları hakkında konuşmak için sabırsızlanıyorum” ifadelerini kullandı.
+
+İLGİLİ HABER
+Donald Trump'ın Kızı Ivanka Trump, Bilim İçin Kolları Sıvadı
+ABD Ticaret Bakanı Wilbur Ross ile Amerikan İşçi Ulusal Konseyi eş başkanlığını yürüten Ivanka Trump, kadınların ve ailelerinin ekonomik olarak güçlendirilmesi ile ilgili projeler geliştiriyor. Başkan Yardımcısı Jared Kushner’ın eşi olan 38 yaşındaki Ivanka Trump, ABD Dışişleri Bakanı Mike Pompeo ve Hollanda Başbakanı Mark Rutte'nin ev sahipliğinde CTA'nın Lahey'deki 2019 Küresel Girişimcilik Zirvesi'nde de konuşmacı olarak yer almıştı.
+
+7-10 Ocak 2020 tarihinde düzenlenecek olan CES 2020’nin açılış konuşmacıları arasında  Quibi CEO'su Meg Whitman, NBCUniversal'ın başkanı Linda Yaccarino, Daimler Başkanı Ola Källenius, Delta Air Lines CEO'su Ed Bastian, Samsung Electronics CEO'su Hyun-Suk Kim ve Unilever CEO'su Alan Jope yer alıyor.
+
+Dünyanın İlk Düşme Önleme Özelliğine Sahip Akıllı Kemeri
+Eray Kalelioğlu	—	2 saat önce4 dk okuma süresi
+
+
+
+8
+Kore merkezli WELT tarafından geliştirilen akıllı kemer, CES 2020 İnovasyon Ödülü'nü almayı başardı. Smart Belt Pro olarak isimlendirilen bu akıllı kemer, kullanıcıların düşmesini önlemek için çeşitli bildirimler gönderiyor ve olası bir düşüşü önceden tahmin edebiliyor.
+Teknoloji tutkunlarının gözü kulağı önümüzdeki günlerde ABD'nin Las Vegas şehrinde olacak. Çünkü 7 Ocak'ta, dünyanın büyük tüketici elektroniği fuarlarından bir tanesi olan "CES" etkinlikleri düzenlenecek. Fuarda, dünya çapından teknoloji üreticileri bir araya gelecekler ve tüketicilere ilerleyen dönemlerde neler sunacaklarını gösterecekler. 
+
+CES 2020 etkinliklerinde boy gösterecek olan teknoloji üreticilerinden bir tanesi de Güney Kore merkezli "WELT" olacak. WELT, sağlık sektörü üzerine dijital ürünler üreten bir şirket ve geçmiş yıllarda adını, ürettiği bir akıllı kemer ile duyurmayı başardı. WELT bu yıl ise akıllı kemerini biraz daha geliştirdi ve CES 2020'nin İnovasyon Ödülü'nü almaya hak kazandı.
+
+Karşınızda Smart Belt Pro
+Smart Belt Pro
+
+Smart Belt Pro; bel ölçümlerini yapabiliyor, oturma süresini hesaplayabiliyor, adım sayma işlemi gerçekleştirebiliyor, aşırı yeme uyarısında bulunabiliyor. Ancak Smart Belt Pro'nun sahip olduğu bir özellik, bu akıllı kemeri dünyada tek yapıyor. Söz konusu özellik, düşüş engelleme.
+
+İLGİLİ HABER
+Samsung, Sıfır Çerçeveli Yeni Televizyon Serisini CES 2020'de Tanıtacak
+Düşme engelleme fonksiyonu, bugün bazı giyilebilir teknolojik ürünlerde mevcut. Bu fonksiyon, kullanıcıların yürüyüş analizlerini yapıyor ve bu bağlamda daha iyi bir yürüyüş için bazı tavsiyelerde bulunuyor. Böylelikle tüketiciler, aldıkları tavsiyeler aracılığıyla daha doğru bir şekilde yürüyorlar ve düşme oranları azalıyor.
+
+Smart Belt Pro
+
+Smart Belt Pro, vücudun neredeyse merkezinde kullanıldığı için daha iyi ve hassas ölçümler yapabiliyor. Böylelikle Smart Belt Pro tarafından verilen tavsiyeler, tüketiciler için daha doğru oluyor. WELT yetkililerine göre Smart Belt Pro, tüketiciler düşmeden önce bu durumu ön görebiliyor ve buna göre bildirimler gönderiyor. Smart Belt Pro'nun düşme engelleme fonksiyonunu benzersiz kılan şey de aslında düşmeden önce bunu tahmin edebilmesi.
+
+WELT tarafından hazırlanan bu akıllı kemer, akıllı telefonlara bağlanarak doğrudan kullanılabiliyor. Kullanıcılar, bu akıllı kemere ait mobil uygulamayı kullanarak kemerin sahip olduğu verileri takip edebiliyorlar. Böylelikle kullanıcılar, Smart Belt Pro kullanırken tıpkı bir akıllı saat kullanıyorlarmış gibi hissediyorlar. 
+
+WELT
+
+Smart Belt Pro, görünüş itibarıyla da şık bir yapıya sahip. Böylelikle tüketiciler, bu akıllı kemeri hem spor hem de klasik giyimlerine uydurabiliyorlar. Üstelik WELT, Smart Belt Pro'nun farklı renk ve toka seçeneklerini de sunuyor. Bu sayede tüketiciler, kendi zevklerine en uygun renk ve tokayı seçebiliyorlar.
+
+WELT'in yeni akıllı kemeri Smart Belt Pro, 395 dolardan (yaklaşık 2.350 TL) başlayan fiyatlarla satın alınabiliyor. Tüketiciler, seçtikleri deri ve toka stiline göre farklı ödemeler yapmak durumunda kalıyorlar. Ayrıca WELT'in Kurucu Ortağı Ken Roh, CES 2020 fuarını ziyaret edecek tüm tüketicileri kendi standlarına, bu akıllı kemeri deneyimlemek için de davet ediyor.
+
+Herkesin Aynı Sandığı Ama Arasında Uçurum Olan Xiaomi ve Redmi Telefonlar Arasındaki 5 Fark
+
+Elon Musk, Starship Uzay Aracını 2-3 Ay İçinde Fırlatabileceklerini Açıkladı
+Ozan Baki	—	3 saat önce3 dk okuma süresi
+
+
+4
+SpaceX'in uzay yolculukları için tasarlanan ve gelecekte Mars'a insan taşıyabilecek Starship roketinin testleri başarısızlıkla sonuçlanmıştı. Şirketin CEO'su Elon Musk, Starship üzerinde yapılan çalışmayı paylaşarak, roketin 2-3 ay içinde fırlatılabileceğini açıkladı.
+SpaceX'in kurucusu Elon Musk, kimi zaman talihsiz patlamalarla, kimi zaman da başarılı girişimleriyle gündeme geliyor. Şirketin uzay yolculuğu için geliştirdiği Starship Mk1, 20 Kasım'da Teksas'taki basınç testleri sırasında infilak etmişti. Ancak bu başarısızlıktan 5 hafta sonra Musk, roketin yepyeni bir versiyonunun mart ayı bitmeden önce fırlatılabileceğini açıklamıştı.
+
+Musk, Twitter'dan gönderdiği yeni mesajında yapımı süren yeni roketin görüntülerini paylaştı ve bunun inşa etmeyi planladıkları 20 kadar farklı prototipten biri olduğu belirtti. Ardından yaptığı diğer bir paylaşımda Musk, Starship roketinin 2-3 ay içinde fırlatılacağını açıkladı. Video, Musk Teksas'taki çalışma alanını ziyaret ederken ve roketin yakıt tankının üzerine yerleştirilecek kubbeyi andıran üst kısım üzerindeki çalışmaların sürdüğü görülüyor.
+
+elon musk spacex starship
+
+Ayrıca Musk mesajında, "Şimdi Starship SN1'in uçuş tasarımını yapıyoruz, ancak her SN'ye, en azından SN20 ya da Starship V1.0'a kadar küçük geliştirmeler yapacağız." dedi. Başka bir deyişle, Musk Starship prototiplerine çok bağlı kalmıyor çünkü SpaceX mühendisleri, kargo ve insan taşıyacak 20 farklı versiyon yapabilir.
+
+SpaceX şirketinin en yeni projelerinden biri olan Starship uzay aracı, insanları ve kargoları Dünya'nın yörüngesine, uzay istasyonlarına ve hatta Mars'a taşımak amacıyla üretilen yeni nesil bir uzay aracı projesi olarak ortaya çıktı. 2019 yılının başlarında başlayan proje için ilk testler mart ayında başladı.
+
+İLGİLİ HABER
+Kepler, SpaceX’in Falcon 9 Roketi ile Uzaya İki Grup Nano Uydu Fırlatacak
+Musk, eylül ayında Starship'i 2020 ortasında fırlatmayı umduklarını ve önümüzdeki yılın sonuna kadar yolcu taşımaya başlayabileceklerini açıklamıştı. SpaceX'in Başkanı ve Genel Müdürü Gwyne Shotwell de Starship'i 2022'de Ay'a indirmeyi Maezawa'yı da 2023'te Ay çevresindeki yolculuğuna çıkarmayı hedeflediklerini belirtmişti.
+
+Ancak uzmanlar bu açıklamaların ilk prototipin infilak etmesinden önce yapıldığına, SpaceX'in uzay yolculuklarına başlayabilmesi için bazı bürokratik engelleri aşması ve test alanı yakınlarındaki Boca Chica köyünü bir şekilde boşaltması gerektiğine dikkat çekiyor.
+
+Yerli Otomobilin Ön Sipariş Bedelinin Ne Kadar Olacağı Belli Oldu
+Berk Baylançiçek	—	3 saat önce2 dk okuma süresi
+
+
+153
+Geçtiğimiz hafta görücüye çıkan yerli elektrikli otomobil, hem tasarımı hem de teknolojik özellikleriyle büyük beğeni kazanmıştı. Türkiye Odalar ve Borsalar Birliği (TOBB) bünyesindeki ön sipariş işleminde ön ödeme miktarının 30-40 bin TL olması bekleniyor.
+Beş büyük 'babayiğit' tarafından oluşturan bir konsorsiyum olan Türkiye'nin Otomobili Girişim Grubu (TOGG) tarafından geliştirilen yüzde 100 elektrikli yerli otomobil, manşetleri süslemeye devam ediyor. Üzerindeki perdenin kalkmasıyla birlikte belediyelerden sivil toplum kuruluşlarına, kamu kurumlarından spor kulüplerine kadar pek çok kurum ve kuruluş, araca talip olduklarını açıkladı. Öyle ki, Türkiye’nin Otomobili için talebin şimdiden 120 bini aştığı söyleniyor.
+
+yerli otomobil
+
+Tasarımı kadar sahip olduğu üstün teknolojik özelliklerle de bir hayli dikkat çeken yerli elektrikli otomobil için ön sipariş süreci başlıyor. Bugün ortaya çıkan bilgilere göre bu süreç, tek elden yönetilecek ve koordinasyonu Türkiye Odalar ve Borsalar Birliği’nin (TOBB) sağlayacak. Böylece söz konusu çalışma ile Türkiye’de yerli otomobili kaç kişinin almak istediği belli olacak. 
+
+İLGİLİ HABER
+Yerli Otomobil Tüm Havalimanlarında Follow Me Aracı Olarak Kullanılacak
+Hesap, fabrika kurulduktan sonra oluşturulacak. TOBB bünyesinde toplanacak ön ödeme paralarının, fabrika için gerekli olan yatırımın bir kısmını karşılaması bekleniyor. Ön ödeme miktarının ise 30-40 bin lira olarak belirleneceği tahmin ediliyor.
+
+yerli otomobil TOGG
+
+Konuya ilişkin açıklamalarda bulunan Bursa Ticaret ve Sanayi Odası Başkanı (BTSO) ve TOBB Yönetim Kurulu Üyesi İbrahim Burkay, Anadolu’nun dört bir tarafından gelecek alım taleplerinin yerli otomobilin üretim sürecine destek olacağını belirtti. "Bu kampanya, tabandan gelen taleplerle öne alındı. Fabrikaya en büyük destek bu kampanya olacak” diyen Burkay, şu anda neredeyse yıllık üretim rakamı olan 175 bin adet kadar talep olduğunu aktardı.
+
+İLGİLİ HABER
+Yerli Otomobilin Özellikleri, Rakipleriyle Kıyaslandı: Sonuçlar Heyecan Verici
+Yerli elektrikli otomobilin üretileceği fabrika, Bursa’nın Gemlik ilçesinde kurulacak. TOGG tarafından 22 milyar lira yatırımla inşa edilecek olan fabrikaya devlet desteği de sağlanacak. Kurulacak üretim tesisinde 300’ü nitelikli personel olmak üzere toplam 4 bin 323 kişiye iş sağlanacak. Yerli otomobil 5 farklı modele sahip olacak ve yılda 175 bin adet üretilecek.
+
+Bir Araştırmaya Göre Spor Ayakkabılar, Bilekler İçin Zararlı Olabilir
+Eray Kalelioğlu	—	3 saat önce2 dk okuma süresi
+
+
+8
+İtalya'da yapılan bir araştırma, spor ayakkabıların aslında o kadar da masum olmadığını çıkarttı. Araştırma, bileklerde yaşanan sorunların nedeninin spor ayakkabılardan kaynaklanabileceğini ortaya koyuyor. Ancak bileklerde yaşanan sorunların tek nedeni spor ayakkabılar değil.
+Spor ayakkabılar, gündelik yaşamımızda kurtarıcılarımız olan ürünlerden bir tanesi. Ayakkabı sektörünün önde gelen isimleri, ürettikleri spor ayakkabılarla tüketicilere hem rahat bir yürüyüş imkanı sunduklarını hem de ayak sağlığına yardımcı olduklarını ifade ediyorlar. Ancak bilim insanlarına göre bileklerde yaşanan rahatsızlıkların nedeni, spor ayakkabılarla ilgili olabilir.
+
+İtalya'da bulunan Bologna Üniversitesi bünyesinde çalışmalarını sürdüren bilim insanları, moden insanların ayak bileklerinin atalarına göre daha az esnek olduğu sonucuna ulaştılar. Bu da modern insanların ayak bileğinin, sakatlanmalara karşı daha dayanıksız olduğu anlamına geliyor. Bilim insanları, bu sonuca ulaşabilmek için 142 farklı antik döneme ait fosillerin 3 boyutlu modellerini incelediler.
+
+Spor ayakkabı
+
+İLGİLİ HABER
+Nissan’ın Eski CEO’su, Ev Hapsinden Türkiye Aktarmalı Uçakla Kaçtı
+Araştırmanın bir numaralı ismi Rita Sorrentino'ya göre bu durumun nedenleri arasında spor ayakkabı kullanımının yaygınlaşması bulunuyor. Ayrıca atalarımıza göre daha az hareket ediyor oluşumuz da bileğimizin esnekliğini azaltmış durumda. Sorrentino'ya göre bu durumların birleşmesi, modern insan bileğinin hem daha az esnek olmasına hem de dayanıklılığının azalmasına neden olmuş durumda.
+
+Sorrentino, eski insanların yaşamlarını avcılık ve toplayıcılıkla sürdürdüğünü, bunun da uzun mesafelerde yürüyüş yapmak sayesinde olduğunu ifade ediyor. Üstelik o dönemlerde herhangi bir ayakkabı çeşidinin olmadığını da vurgulayan Sorrentino, eski insanların ayaklarının daha dayanıklı olmasının esas nedeninin bundan kaynaklı olduğunu ifade ediyor. 
+
+Kaynak :https://www.ntv.com.tr/teknoloji/spor-ayakkabi-giymek-bilekler-icin-zararli-olabilir-bilimsel-arastirma,1p3mgQ_GU0KDzYlGLM2x0w
+Anasayfa  Otomobil  Nissan’ın Eski CEO’su, Tokyo'daki Ev Hapsinden Kaçtı
+Nissan’ın Eski CEO’su, Ev Hapsinden Türkiye Aktarmalı Uçakla Kaçtı
+Berk Baylançiçek	—	4 saat önce2 dk okuma süresi
+
+
+35
+Geçtiğimiz yılın kasım ayında, hakkındaki yolsuzluk soruşturması kapsamında tutuklanan ve o tarihten bu yana Japonya’nın başkenti Tokyo’da ev hapsinde tutulan Renault-Nissan-Mitsubishi ittifakının eski CEO’su Carlos Ghosn’un, özel bir jet ile Türkiye üzerinden Lübnan’a kaçtığı bildirildi.
+Renault-Nissan-Mitsubishi ittifakının kurucu CEO’su Carlos Ghosn, 2011’den bu yana haksız kazanç sağladığı ve bu gelirini sakladığı gerekçesiyle 19 Kasım 2018 tarihinde Tokyo Havalimanı’nda tutuklanmıştı. 1999 yılından bu yana sürdürdüğü görevinden azledilen 64 yaşındaki iş insanı, geçtiğimiz mart ayında 9 milyon yen karşılığında serbest kalmış; ancak kısa bir süre sonra yeniden tutuklanmış ve ev hapsine alınmıştı.
+
+Zimmetine para geçirmekle suçlanan Renault-Nissan-Mitsubishi ittifakının eski CEO’sunun, ev hapsinde tutulduğu Tokyo’dan sahte kimlik kullanarak özel bir jet ile Lübnan’a kaçtığı aktarıldı. Ghosn’un özel bir jet ile Türkiye üzerinden Beyrut’a uçtuğu söyleniyor.
+
+nissan eski ceo
+
+Ghosn, yaptığı açıklamada, “Japon adalet sistemi tarafından daha fazla esir tutulmamak için artık Lübnan’dayım” ifadelerini kullandı. Adaletten değil, adaletsizlikten ve zulümden kaçtığını belirten 64 yaşındaki iş insanı, “Artık medya ile özgürce iletişim kurabilirim. Hatta bunu haftaya yapabilirim” şeklinde konuştu. Ghosn’un Fransa, Brezilya ve Lübnan vatandaşlığı bulunuyor.
+
+Konuya ilişkin değerlendirmelerde bulunan Fransa Ekonomi Bakanı Agnes Pannier-Runacher, Ghosn’un ev hapsinden kaçtığını herkes gibi medyadan öğrendiğini ve büyük bir şok yaşadığını ifade etti.
+
+İLGİLİ HABER
+Nissan: "En Üst Düzey Yöneticimiz Bizi 20 Yıldır Dolandırıyormuş"
+Öte yandan Japon makamlar, Nissan’ın eski CEO’sunun ülkeden çıktığına dair ellerinde henüz somut bir delil olmadığını aktarıyor. Japonya’nın en büyük haber kanallarından NHK ise 5 yılda 44 milyon dolar zimmetine para geçirdiği söylenen Ghosn’un sahte kimlik kullanarak Lübnan’a uçtuğunu belirtiyor.
+
+Kaynak :https://www.haberturk.com/nissan-in-eski-ceo-su-lubnan-a-kacti-2554488-ekonomi
+Anasayfa  Sinema ve Dizi  Netflix'in '2019'da Ne İzledik?' Listeleri Şüphe Uyandırdı
+Netflix'in Yayınladığı "En Çok İzlenen Dizi ve Filmler" Listeleri Şüphe Uyandırdı
+Eray Kalelioğlu	—	4 saat önce3 dk okuma süresi
+
+
+29
+Netflix, Twitter'dan yaptığı bir açıklamayla 2019 yılının en çok izlenen içeriklerini duyurdu. Ancak Netflix'in paylaştığı listeler, hiç güven vermiyor çünkü Netflix, küçük puntolarla yazdığı notta söz konusu listelerin nasıl hazırlandığını açıkça ortaya koyuyor.
+Dünyanın en popüler çevrimiçi dizi ve film platformlarından olan Netflix, dolu dolu geçirdiği 2019 yılını diğer tüm platformlar gibi tamamlamış durumda. Hatta Netflix, kısa bir süre önce 2019 yılının en çok izlenen dizi ve filmlerini de kamuoyu ile paylaştı. Ancak Netflix tarafından yayımlanan liste, o kadar da güvenilir değil gibi görünüyor. Çünkü Netflix'in küçük puntolarla yazdığı notlar, listelerin nasıl hazırlandığını ortaya koyuyor.
+
+Netflix'in dün yayımladığı "2019'da Ne İzledik?" listesinin bir numarasında Murder Mystery, iki numarasında Stranger Things'in 3. sezonu ve üç numarasında da 6 Underground isimli yapımlar yer aldı. Netflix'in yayımladığı ikinci liste ise 2019 yılında en çok izlenen 10 diziyi içeriyordu. Bu kez karşımıza ilk sırada Stranger Things'in 3. sezonu, ikinci sırada The Witcher, üçüncü sırada ise The Umbrella Academy yer alıyordu.
+
+Netflix
+
+Netflix'in güven vermeyen listeleri, özellikle de 6 Underground'un yeriyle tartışmaya açıyordu. Ancak Netflix, gelebilecek eleştirileri öncesinden tahmin etmiş olacak ki listenin en alt kısmına çok küçük puntoyla bir not iliştirmişti. Bu notta, listede yer alan yapımların görüntülenme tahminlerinin de dahil edildiği ifade ediliyordu. Yani aralık ayında yayınlanan 6 Underground'un listenin ikinci sırasına yerleşmesinin nedeni de buydu.
+
+İLGİLİ HABER
+İddia: Çalışmalarına Başlanan Halloween Dizisi Netflix'te Yayınlanabilir
+Netflix'in yayımladığı listelerde güven kıran ikinci hamlesi ise yine aynı notun içerisinde gizli. Netflix, yapılan sıralamalara diziler yayınlandıktan sonraki ilk 28 gün içerisinde, 2 dakika ve üzerindeki izlenme sayılarını gösteriyor. Bu durum, Netflix'in en popüler içeriklerini göstermek için paylaştığı listelerin, ne denli güvenilmez olduğunu ortaya koyuyor.
+
+Netflix
+
+Özetlemek gerekirse Netflix'in Twitter üzerinden paylaştığı listeler, direkt olarak kullanıcı tercihlerini yansıtmıyor. Netflix, böyle bir yöntem uygulayarak kullanıcıları yeni içeriklere yönlendirmeye çalışıyor gibi görünüyor. Peki sizin bu konudaki düşünceleriniz nelerdir? Netflix'in en çok izlenenler listeleri sizlere yeteri güveni veriyor mu? Fikirlerinizi bizimle paylaşabilirsiniz.
+
+İşte Netflix'in en çok izlenen dizi ve filmler listesi
+
+Netflix US
+✔
+@netflix
+Happy almost 2020! Here’s a look at the most popular series, films, and documentaries released on Netflix in the US this year. (thread)
+
+View image on Twitter
+6,631
+7:45 PM - Dec 30, 2019
+Twitter Ads info and privacy
+1,176 people are talking about this
+
+Netflix US
+✔
+@netflix
+Replying to @netflix
+View image on Twitter
+3,638
+7:45 PM - Dec 30, 2019
+Twitter Ads info and privacy
+727 people are talking about this
+Kaynak :https://gizmodo.com/dont-trust-netflixs-most-popular-list-1840729841
+Anasayfa  Sosyal Medya  2019'da Instagram'da En Çok Para Kazanan Ünlüler Belli Oldu
+2019 Yılında Instagram'da En Çok Para Kazanan Ünlüler Belli Oldu
+Berk Baylançiçek	—	4 saat önce3 dk okuma süresi
+
+
+33
+2019 Yılında Instagram'da En Çok Para Kazanan Ünlüler Belli Oldu
+Sadece saatler sonra veda edeceğimiz 2019 yılında Instagram’ın reklam bedeli en yüksek ünlüleri belli oldu. Juventus’un Portekizli yıldızı Cristiano Ronaldo, Instagram’daki ücretli ortaklıklarından kazandığı 47.8 milyon dolar ile zirveye yerleşti.
+Facebook çatısı altındaki uygulamalardan biri olan Instagram, her ne kadar temelde bir sosyal medya platformu olsa da, içinde barındırdığı dinamiklerle bundan çok daha fazlasını temsil ediyor. İçinde bulunduğumuz dijital pazarlama çağının cennet mekanlarından biri olan platform, her yıl milyonlarca dolarlık marka iş birliklerine sahne oluyor.
+
+2019 yılına yavaş yavaş veda etmeye hazırlandığımız bugünlerde, bu yıl Instagram’da en fazla para kazanan ünlülere ya da diğer deyişle influencerlara göz atma zamanı geldi.
+
+2019'da Instagram'da en fazla para kazanan isimler:
+1- Cristiano Ronaldo - 47.8 milyon dolar
+
+İtalya Serie A ekiplerinden Juventus’ta forma giyen Cristiano Ronaldo, futbolda olduğu kadar Instagram’da da para basıyor. Gelmiş geçmiş en başarılı sporculardan biri olan Portekizli yıldız, bu yıl sosyal medya platformundan tam 47.8 milyon dolar kazandı.
+
+İLGİLİ HABER
+Berkcan Güven, Cristiano Ronaldo ile Çektiği Videoyu Paylaştı
+2- Kendall Jenner - 15,9 milyon dolar
+
+Amerikalı süper model ve reality show yıldızı Kendall Jenner, Calvin Klein, Proactiv ve Stuart Weitzman gibi ünlü şirketlerle yaptığı ücretli ortaklıklardan tam 15,9 milyon dolar kazanarak, ikinci sırada yer aldı. Bu yıl toplam 26 sponsorlu gönderi paylaşan yıldız isim, gönderi başına 600.000 doları cebine koydu.
+
+3- David Beckham - 10,7 milyon dolar
+
+Listenin üçüncü basamağında İngiliz futbol ikonu David Beckham bulunuyor. Kariyeri boyunca Manchester United, Real Madrid ve Milan gibi dev takımlarda forma giyen efsane isim, bu sene 30 ücretli ortaklık üzerinden 10,7 milyon dolar kazandı.
+
+4- Selena Gomez - 8 milyon dolar
+
+Dördüncü sırada, sadece dokuz sponsorlu gönderisi olmasına rağmen bu yıl Instagram'da 8 milyon dolar kazanan Amerikalı ünlü şarkıcı Selena Gomez var. 164 milyon takipçisi bulunan pop yıldızı, paylaşım başına 880.000 dolar kazandı. Ünlü ismin ücretli ortaklıkları arasında Puma ve Coach gibi markalar bulunuyor. 
+
+İLGİLİ HABER
+Instagram'ın CEO’su, Selena Gomez’den Platforma Geri Dönmesini İstedi
+5- Kylie Jenner - 3,8 milyon dolar
+
+Bu yıl Instagram’dan 3,8 milyon dolar kazanan Kendall Jenner'in 22 yaşındaki kardeşi Kylie Jenner, listeye beşinci sıradan giriş yaptı. Forbes tarafından dünyanın en genç milyarderi seçilen Amerikalı model ve televizyon yıldızı, Bu yıl Instagram'da yalnızca üç reklam aldı. Bu da posta başına en az 1 milyon dolar kazandığı anlamına geliyor.
+
+Kaynak :https://designtaxi.com/news/408045/Instagram-s-Highest-Paid-Personalities-And-How-Much-They-Bag-Per-Post-Revealed/
+Anasayfa  Sinema ve Dizi  Erdal Beşikçioğlu'ndan Çok Önemli Behzat Ç. Açıklaması
+Erdal Beşikçioğlu'ndan Behzat Ç.'nin İkinci Sezonuyla İlgili Çok Sert Açıklama
+Eray Kalelioğlu	—	4 saat önce4 dk okuma süresi
+
+1
+
+70
+BluTV'de yeniden yayınlanan dizinin ikinci sezonuyla ilgili söylentiler ve projenin iptal edilmesi, Behzat Ç. oyuncularını karşı karşıya getirdi. Dizinin bir numaralı ismi Erdal Beşikçioğlu'ndan tüm tartışmalara son verecek bir açıklama geldi.
+Türkiye'nin dizi sektörünün en ağır toplarından bir tanesi olan "Behzat Ç.", uzunca bir süredir hayatımızın içerisinde. 2010 yılında yayınlanan ilk bölümüyle Türkiye'nin gündemine bomba gibi düşen dizi, uzun soluklu televizyon hayatının ardından sinema salonlarında kendisine yer buldu. Geçtiğimiz aylarda ise Türkiye'deki çevrimiçi dizi ve film platformlarından BluTV, Behzat Ç. dizisini yeniden çekti.
+
+BluTV'de yer alan Behzat Ç.'nin ilk sezonu, dizinin hayranlarından tam not almayı başardı. Seyirciler, dizinin ikinci sezonunu beklerken bazı anlaşmazlıklar yaşandı ve dizi iptal edildi. BluTV, dizinin ikinci sezonunu onaylamasına rağmen Erdal Beşikçioğlu'ndan kaynaklandığı iddia edilen anlaşmazlıklar, dizinin ikinci sezonunun iptal edilmesine yol açtı. Hal böyle olunca da BluTV, iptal edilen Behzat Ç.'nin yerine geçecek yeni bir proje başlattı.
+
+Behzat Ç.
+
+Behzat Ç.'de yaşanan sorunlar, dizinin hayranları ve eleştirmenler tarafından da uzun süredir tartışılıyor. Hatta dizinin oyuncuları da yaşananlara tepkisiz kalmadı ve dizide "Hayalet" isimli karaktere can veren İnanç Konukçu, Erdal Beşikçioğlu'na yönelik sitem dolu bir paylaşım yaptı. Şimdiyse dizinin bir numaralı ismi olan Erdal Beşikçioğlu'ndan, Behzat Ç. ile ilgili tüm tartışmalara son verecek bir açıklama geldi.
+
+İkinci sezon, gelen tepkilere göre çekilecekti
+Behzat Ç.'nin Türkiye'nin dizi tarihindeki önemli yapımlardan bir tanesi olduğunu söyleyen Beşikçioğlu, dizinin yayınlanmasının üzerinden yıllar geçmesine rağmen popülaritesinin sona ermediğini, dizinin fenomen haline geldiğini ve dizi hayranlarının, Behzat Ç.'yi yeniden ekranlarda görmeyi çok istediğini ifade etti. Kendilerinin de seyirci ile benzer duygular içerisinde olduğunu ifade eden Beşikçioğlu, BluTV'deki içeriğe bu yüzden başladıklarını söyledi.
+
+Erdal Beşikçioğlu, BluTV'deki Behzat Ç.'nin bir sezon olarak konuşulduğunu, devam sezonlarının ise gelecek tepkilere göre belirleneceğini, bu yönde anlaştıklarını ifade ediyor. Ortaya çıkan ikinci sezon söylentileri ise diziyle ilgili bir beklenti oluşturmuş ancak dizi ekibinin, ikinci sezona dair hiçbir şeyden haberi yokmuş.
+
+Erdal Beşikçioğlu
+
+Dizi, bambaşka bir yere evriliyor
+Erdal Beşikçioğlu, dizinin ikinci sezonuyla ilgili bilgiler eline ulaştıkça, dizinin konusunun büyük çapta değiştiğini söylüyor. Beşikçioğlu'na göre Behzat Ç., dizinin ikinci sezonunda bürodan uzaklaşmış ve derin devletle büyük bir mücadelenin içerisine giriyormuş. Dizinin bambaşka bir yöne doğru çekildiğini ifade eden Beşikçioğlu, projenin yaratıcısı olan Emrah Serbes'in bu olaydan haberdar olup olmadığının bile bilinmediğini ifade ediyor.
+
+Beşikçioğlu'nun ifadelerine göre dizideki değişiklikler sadece konuyla da ilgili değil. Beşikçioğlu'na göre projenin yönetmeni olan Serdar Akar ve Memduh Başgan karakteri de yeni bölümlerde istenmiyormuş. Bu gibi olaylar üst üste geldiğinde de Beşikçioğlu, fenomen hale gelmiş bir diziye zarar vermemek için projeye devam etmeme kararı almış.
+
+Behzat Ç.
+
+Mesele para değil
+Sosyal medyada yer alan ve konunun parayla ilgili olduğu iddialarına da değinen Beşikçioğlu, dizide oynayıp hala parasını alamayan oyuncuların olduğunu ifade etti. Oyuncular için paranın önemli olmadığını ifade eden Beşikçioğlu, Behzat Ç.'nin bir rant düzeni içine sokulduğunu ve kendisinin bu durumun içerisinde olmak istemediğini söylüyor. Beşikçioğlu, parayla ilgili yapılan yorumları "seviyesizlik" olarak nitelendiriyor.
+
+Kaynak :http://www.milliyet.com.tr/cadde/erdal-besikcioglundan-flas-behzat-c-aciklamasi-6112716
+Anasayfa  Yaşam  MTV'yi Belirleyen Araç Matrah Bedelleri Yükseltildi
+MTV'nin Belirlenmesinde Önemli Olan Araç Matrah Bedelleri Yükseltildi
+Eray Kalelioğlu	—	5 saat önce3 dk okuma süresi
+
+
+32
+Tescil tarihi 1 Ocak 2018 ve sonrası olan araçların MTV bedellerinde, aracın matrah bedeli belirleyici oluyor. Resmi Gazete'de yayımlanan yeni verilere göreyse 2020 yılındaki araçların matrah bedelleri yükseltildi. İşte, 2020 yılında uygulanacak olan yeni matrah bedelleri.
+Birkaç gün önce sizlerle, Resmi Gazete'de yayımlanan yeni Motorlu Taşıtlar Vergisi ücretlerinden bahsetmiştik. O gün sizlerle paylaşmış olduğumuz haberimizde, tescil tarihi 1 Ocak 2018 ve sonrası olan araçların MTV bedellerinin, araçların matrahına göre belirlendiğinden bahsetmiştik. Şimdi yayımlanan yeni rakamlarla birlikte MTV'nin belirlenmesinde önemli olan araç matrahları güncellendi.
+
+2019 yılı MTV ödemelerinde, araç değerleri 46.300 TL, 81.100 TL ve 81.100 TL üzerindekiler olarak sınıflandırılıyordu. Şimdi ise bu sınıflandırma değiştirildi ve yükseltildi. Yani vatandaşlar, 2020 yılında MTV ödemesi yaparken yeni kriterleri göz önünde bulunduracaklar. Dilerseniz lafı daha fazla uzatmadan, Resmi Gazete'deki yeni düzenlemeye yakından bakalım.
+
+MTV
+
+Resmi Gazete'de yayımlanan yeni değerlere göre tescil tarihi 1 Ocak 2018 ve sonrası olan araçlarda belirleyici olan matrah bedeli, 51.800 TL, 90.800 TL ve 90.800 TL üzerindeki araçlar olacak. Yani 2019 yılında 46.300 TL'ye kadar olan araçlar için belirlenen MTV bedeli, 2020 yılında 50.800 TL'ye kadar olan araçlar için uygulanacak.
+
+İşte 2020 yılında araçların matrah bedellerine göre ödenecek MTV bedelleri
+Motor gücü 1.300 cc ve altında olan araçlar
+Bedeli 51.800 TL'yi aşmıyorsa 964 TL
+Bedeli 51.800 TL ile 90.800 TL arasındaysa 1.059 TL
+Bedeli 90.800 TL üzerindeyse 1.156 TL
+Motor gücü 1.301 - 1.600 cc arasında olan araçlar
+Bedeli 51.800 TL'yi aşmıyorsa 1.678 TL
+Bedeli 51.800 TL ile 90.800 TL arasındaysa 1.846 TL
+Bedeli 90.800 TL üzerindeyse 2.014 TL
+Motor gücü 1.601 - 1.800 cc arasında olan araçlar
+Bedeli 129.800 TL altındaysa 3.260 TL
+Bedeli 129.800 TL üzerindeyse 3.557 TL
+Motor gücü 1.801 - 2.000 cc arasında olan araçlar
+Bedeli 129.800 TL altındaysa 5.136 TL
+Bedeli 129.800 TL üzerindeyse 5.603 TL
+Motor gücü 2.001 - 2.500 cc arasında olan araçlar
+Bedeli 162.100 TL altındaysa 7.704 TL
+Bedeli 162.100 TL üzerindeyse 8.405 TL
+Motor gücü 2.501 - 3.000 cc arasında olan araçlar
+Bedeli 324.400 TL altındaysa 10.741 TL
+Bedeli 324.400 TL üzerindeyse 11.719 TL
+Motor gücü 3.001 - 3.500 cc arasında olan araçlar
+Bedeli 324.400 TL altındaysa 16.358 TL
+Bedeli 324.400 TL üzerindeyse 17.847 TL
+Motor gücü 3.501 - 4.000 cc arasında olan araçlar
+Bedeli 519.200 TL altındaysa 25.720 TL
+Bedeli 519.200 TL üzerindeyse 28.060 TL
+Motor gücü 4.001 cc ve üzerinde olan araçlar
+Bedeli 616.500 TL altındaysa 42.097 TL
+Bedeli 616.500 TL üzerindeyse 45.924 TL
+Kaynak :http://www.hurriyet.com.tr/ekonomi/mtvde-tasit-degeri-yenilendi-41409282
+Anasayfa  İnternet  Google Haritalar'da Star Wars Rüzgarı Estirecek Özellik
+Google Haritalar'da Star Wars Rüzgarı Estirecek Özellik (Video)
+Berk Baylançiçek	—	6 saat önce2 dk okuma süresi
+
+
+12
+Google Haritalar'da Star Wars Rüzgarı Estirecek Özellik (Video)
+Son dönemde kazandığı yeni özellikler sayesinde kullanıcılara hiç olmadığı kadar iyi bir navigasyon deneyimi sunan Google Haritalar, bu kez oldukça eğlenceli bir özellikle karşımızda. Artık gezegenler arasında her geçiş yaptığınızda Star Wars’taki gibi ‘hiperuzay’ animasyonu göreceksiniz.
+ABD’li teknoloji devi Google’ın en sevilen hizmetlerinden biri olan Google Haritalar, neredeyse her kullanıcının akıllı telefonunda kendine yer buluyor. Diğer harita uygulamalarına kıyasla sadece üstün bir navigasyon deneyimi sunmayan platform, aynı zamanda bir restoranın en iyi yemeklerini dahi görüntülemenize imkan sağlıyor.
+
+Tartışmasız birçok rakibinin önünde olan Google Haritalar, bu kez tamamen işlevsiz olmasına rağmen oldukça eğlenceli bir özellikle karşımıza çıktı. Bir Reddit kullanıcısı tarafından keşfedilen özellik, bilhassa Star Wars hayranlarının gönlünü fethedecekmiş gibi görünüyor.
+
+Artık Google Haritalar’ın web arayüzünde gezegenler arasında her geçiş yaptığınızda Star Wars gibi bilim kurgu filmlerindeki uzay araçlarının ışık hızına atlaması gibi görünen bir “hiperuzay” animasyonu ile karşılaşacaksınız. 
+
+ 
+
+
+ 
+
+Denemek için web üzerinde Google Haritalar'ı açın ve sonra olabildiğince uzaklaştırın. Sağ altta, dünya seçeneğine dokunun ve ardından uydu görünümüne geçin. Biraz daha dışarı kaydırdığınızda ekranın sol tarafında farklı gezegenleri içeren bir menü görmelisiniz. Bunlardan birine dokunduğunuzda, söz konusu gezegene ‘hiperuzay’ animasyonu ile yolculuk yapacaksınız. Tabii bu animasyonunun herkese sunulmamış olabileceğini de söylemiş olalım. Yine de denemeye değer.
+
+İLGİLİ HABER
+Google Haritalar'a Artırılmış Gerçeklik Oyunları İçin Yeni Bir Özellik Geldi
+Bir Reddit kullanıcısı tarafından keşfedilen bu özelliğin uygulamaya ne zaman eklendiği belli değil; ancak şu sıralar vizyonda olan Star Wars: Skywalker'ın Yükselişi, bu yeniliğin altında yatan sebep olabilir.
+
+Kaynak :https://bgr.com/2019/12/30/google-maps-new-feature-hyperspace-star-wars/
+
